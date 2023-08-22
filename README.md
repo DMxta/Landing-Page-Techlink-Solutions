@@ -2,6 +2,8 @@
 
 Este repositório contém o código-fonte fictício de uma landing page para a empresa TechLink Solutions. A landing page inclui informações sobre a empresa, sua história, valores, missão, serviços oferecidos e botão para contato.
 
+(Não responsivo)
+
 Link para visualização/navegação: https://dmxta.github.io/Landing-Page-Techlink-Solutions/
 
  IDE:
